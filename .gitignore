@@ -1,0 +1,15 @@
+﻿.vs
+UserSettings
+Library
+Logs
+obj
+Temp
+.vsconfig
+Agents-TBS-Tests.sln
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Hummingbirds.sln
+sc.fae.editor.csproj
+sc.fae.runtime.csproj
+Assets/Gaia User Data
+Assets/Gaia User Data.meta
